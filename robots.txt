@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://avisospublicoes.github.io/sitemap.xml
